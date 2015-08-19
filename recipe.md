@@ -1,4 +1,4 @@
 Cookie Recipe
 ------------
-*remove **flour**
+*remove  FLOUR
 Make something delicious
